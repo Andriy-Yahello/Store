@@ -1,0 +1,12 @@
+D:\app\my\Article\Article\bin\Debug\Article.exe.config
+D:\app\my\Article\Article\bin\Debug\Article.exe
+D:\app\my\Article\Article\bin\Debug\Article.pdb
+D:\app\my\Article\Article\obj\Debug\Article.csprojResolveAssemblyReference.cache
+D:\app\my\Article\Article\obj\Debug\Article.exe
+D:\app\my\Article\Article\obj\Debug\Article.pdb
+C:\app\my\Article\Article\bin\Debug\Article.exe.config
+C:\app\my\Article\Article\obj\Debug\Article.exe
+C:\app\my\Article\Article\obj\Debug\Article.pdb
+C:\app\my\Article\Article\bin\Debug\Article.exe
+C:\app\my\Article\Article\bin\Debug\Article.pdb
+C:\app\my\Article\Article\obj\Debug\Article.csprojResolveAssemblyReference.cache
